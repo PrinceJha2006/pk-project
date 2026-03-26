@@ -1,8 +1,9 @@
-fastapi==0.116.1
-uvicorn[standard]==0.35.0
-pandas==2.3.3
-textblob==0.17.1
-scikit-learn==1.7.1
-python-multipart==0.0.20
-requests==2.32.5
-openpyxl==3.1.5
+fastapi
+uvicorn
+gunicorn
+pandas
+numpy
+scikit-learn
+joblib
+python-multipart
+openpyxl
